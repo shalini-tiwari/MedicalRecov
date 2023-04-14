@@ -30,4 +30,3 @@
 
 <img width="1680" alt="Screenshot 2023-04-14 at 12 32 23 PM" src="https://user-images.githubusercontent.com/70230806/231968373-ce8ef449-b09b-47f6-9fe8-d86565864a3c.png">
 
-<p align="center"; font-size:400px;>💙 THANK YOU 💙</p>

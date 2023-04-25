@@ -9,7 +9,7 @@
 
 - Install npm packages
 
-        npm i or npm install       
+          npm i or npm install       
 
 - Run project locally
 
